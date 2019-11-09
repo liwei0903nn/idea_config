@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="m" value="* @MethodName: $methodName$&#10; * @Description: TODO&#10; * @Param: $param$&#10; * @Return: $return$&#10; * @Author: $user$&#10; * @Date: $time$&#10;**/" toReformat="false" toShortenFQNames="true">
+  <template name="m" value="* @MethodName: $methodName$&#10; * @Description: TODO&#10; * @Param: $param$&#10; * @Return: $return$&#10; * @Author: $user$&#10; * @Date: $time$&#10;**/" description="" toReformat="false" toShortenFQNames="true">
     <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
