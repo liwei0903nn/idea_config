@@ -1,12 +1,5 @@
 <application>
   <component name="TomcatInfoConfigs">
-    <option name="current">
-      <TomcatInfo>
-        <option name="name" value="Apache Tomcat 8.5.47" />
-        <option name="path" value="E:\360download\apache-tomcat-8.5.47-windows-x64\apache-tomcat-8.5.47" />
-        <option name="version" value="8.5.47.0" />
-      </TomcatInfo>
-    </option>
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
